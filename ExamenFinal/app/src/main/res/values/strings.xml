@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExamenFinal</string>
+    <string-array name="dostipos">
+        <item>Ingreso</item>
+        <item>Gasto</item>
+    </string-array>
+
+
+</resources>
